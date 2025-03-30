@@ -1,0 +1,1541 @@
+From country,Voting Type,Points,To country,Year,Edition
+Australia,Jury,12,Malta,2021,sf1
+Australia,Jury,10,Cyprus,2021,sf1
+Australia,Jury,8,Israel,2021,sf1
+Australia,Jury,7,Russia,2021,sf1
+Australia,Jury,6,Sweden,2021,sf1
+Australia,Jury,5,Azerbaijan,2021,sf1
+Australia,Jury,4,Ukraine,2021,sf1
+Australia,Jury,3,Ireland,2021,sf1
+Australia,Jury,2,Lithuania,2021,sf1
+Australia,Jury,1,Norway,2021,sf1
+Australia,Televoter,12,Ukraine,2021,sf1
+Australia,Televoter,10,Malta,2021,sf1
+Australia,Televoter,8,Lithuania,2021,sf1
+Australia,Televoter,7,Russia,2021,sf1
+Australia,Televoter,6,Cyprus,2021,sf1
+Australia,Televoter,5,Croatia,2021,sf1
+Australia,Televoter,4,Israel,2021,sf1
+Australia,Televoter,3,Norway,2021,sf1
+Australia,Televoter,2,Ireland,2021,sf1
+Australia,Televoter,1,Azerbaijan,2021,sf1
+Azerbaijan,Jury,12,Russia,2021,sf1
+Azerbaijan,Jury,10,Malta,2021,sf1
+Azerbaijan,Jury,8,Ukraine,2021,sf1
+Azerbaijan,Jury,7,Romania,2021,sf1
+Azerbaijan,Jury,6,Sweden,2021,sf1
+Azerbaijan,Jury,5,Croatia,2021,sf1
+Azerbaijan,Jury,4,Slovenia,2021,sf1
+Azerbaijan,Jury,3,Ireland,2021,sf1
+Azerbaijan,Jury,2,Belgium,2021,sf1
+Azerbaijan,Jury,1,Israel,2021,sf1
+Azerbaijan,Televoter,12,Israel,2021,sf1
+Azerbaijan,Televoter,10,Norway,2021,sf1
+Azerbaijan,Televoter,8,Russia,2021,sf1
+Azerbaijan,Televoter,7,Ukraine,2021,sf1
+Azerbaijan,Televoter,6,Malta,2021,sf1
+Azerbaijan,Televoter,5,Romania,2021,sf1
+Azerbaijan,Televoter,4,Cyprus,2021,sf1
+Azerbaijan,Televoter,3,Lithuania,2021,sf1
+Azerbaijan,Televoter,2,Croatia,2021,sf1
+Azerbaijan,Televoter,1,Sweden,2021,sf1
+Belgium,Jury,12,Russia,2021,sf1
+Belgium,Jury,10,Ukraine,2021,sf1
+Belgium,Jury,8,Malta,2021,sf1
+Belgium,Jury,7,Norway,2021,sf1
+Belgium,Jury,6,Sweden,2021,sf1
+Belgium,Jury,5,Romania,2021,sf1
+Belgium,Jury,4,Israel,2021,sf1
+Belgium,Jury,3,Ireland,2021,sf1
+Belgium,Jury,2,Lithuania,2021,sf1
+Belgium,Jury,1,Croatia,2021,sf1
+Belgium,Televoter,12,Malta,2021,sf1
+Belgium,Televoter,10,Ukraine,2021,sf1
+Belgium,Televoter,8,Lithuania,2021,sf1
+Belgium,Televoter,7,Sweden,2021,sf1
+Belgium,Televoter,6,Norway,2021,sf1
+Belgium,Televoter,5,Azerbaijan,2021,sf1
+Belgium,Televoter,4,Israel,2021,sf1
+Belgium,Televoter,3,Cyprus,2021,sf1
+Belgium,Televoter,2,Russia,2021,sf1
+Belgium,Televoter,1,Romania,2021,sf1
+Croatia,Jury,12,Malta,2021,sf1
+Croatia,Jury,10,Cyprus,2021,sf1
+Croatia,Jury,8,Russia,2021,sf1
+Croatia,Jury,7,Israel,2021,sf1
+Croatia,Jury,6,Lithuania,2021,sf1
+Croatia,Jury,5,Ukraine,2021,sf1
+Croatia,Jury,4,Belgium,2021,sf1
+Croatia,Jury,3,Romania,2021,sf1
+Croatia,Jury,2,Australia,2021,sf1
+Croatia,Jury,1,Sweden,2021,sf1
+Croatia,Televoter,12,Ukraine,2021,sf1
+Croatia,Televoter,10,Russia,2021,sf1
+Croatia,Televoter,8,Azerbaijan,2021,sf1
+Croatia,Televoter,7,Malta,2021,sf1
+Croatia,Televoter,6,Cyprus,2021,sf1
+Croatia,Televoter,5,Slovenia,2021,sf1
+Croatia,Televoter,4,Israel,2021,sf1
+Croatia,Televoter,3,Lithuania,2021,sf1
+Croatia,Televoter,2,Norway,2021,sf1
+Croatia,Televoter,1,North Macedonia,2021,sf1
+Cyprus,Jury,12,Malta,2021,sf1
+Cyprus,Jury,10,Romania,2021,sf1
+Cyprus,Jury,8,Russia,2021,sf1
+Cyprus,Jury,7,Sweden,2021,sf1
+Cyprus,Jury,6,Slovenia,2021,sf1
+Cyprus,Jury,5,Croatia,2021,sf1
+Cyprus,Jury,4,Belgium,2021,sf1
+Cyprus,Jury,3,Lithuania,2021,sf1
+Cyprus,Jury,2,Ireland,2021,sf1
+Cyprus,Jury,1,Israel,2021,sf1
+Cyprus,Televoter,12,Lithuania,2021,sf1
+Cyprus,Televoter,10,Israel,2021,sf1
+Cyprus,Televoter,8,Malta,2021,sf1
+Cyprus,Televoter,7,Russia,2021,sf1
+Cyprus,Televoter,6,Ukraine,2021,sf1
+Cyprus,Televoter,5,Romania,2021,sf1
+Cyprus,Televoter,4,Azerbaijan,2021,sf1
+Cyprus,Televoter,3,Sweden,2021,sf1
+Cyprus,Televoter,2,Croatia,2021,sf1
+Cyprus,Televoter,1,Norway,2021,sf1
+Germany,Jury,12,Sweden,2021,sf1
+Germany,Jury,10,Malta,2021,sf1
+Germany,Jury,8,Ukraine,2021,sf1
+Germany,Jury,7,Russia,2021,sf1
+Germany,Jury,6,Romania,2021,sf1
+Germany,Jury,5,Cyprus,2021,sf1
+Germany,Jury,4,Lithuania,2021,sf1
+Germany,Jury,3,Israel,2021,sf1
+Germany,Jury,2,Croatia,2021,sf1
+Germany,Jury,1,Australia,2021,sf1
+Germany,Televoter,12,Lithuania,2021,sf1
+Germany,Televoter,10,Ukraine,2021,sf1
+Germany,Televoter,8,Malta,2021,sf1
+Germany,Televoter,7,Croatia,2021,sf1
+Germany,Televoter,6,Russia,2021,sf1
+Germany,Televoter,5,Israel,2021,sf1
+Germany,Televoter,4,Norway,2021,sf1
+Germany,Televoter,3,Belgium,2021,sf1
+Germany,Televoter,2,Azerbaijan,2021,sf1
+Germany,Televoter,1,Cyprus,2021,sf1
+Ireland,Jury,12,Malta,2021,sf1
+Ireland,Jury,10,Croatia,2021,sf1
+Ireland,Jury,8,Russia,2021,sf1
+Ireland,Jury,7,Azerbaijan,2021,sf1
+Ireland,Jury,6,Ukraine,2021,sf1
+Ireland,Jury,5,Lithuania,2021,sf1
+Ireland,Jury,4,Cyprus,2021,sf1
+Ireland,Jury,3,Norway,2021,sf1
+Ireland,Jury,2,North Macedonia,2021,sf1
+Ireland,Jury,1,Sweden,2021,sf1
+Ireland,Televoter,12,Lithuania,2021,sf1
+Ireland,Televoter,10,Malta,2021,sf1
+Ireland,Televoter,8,Ukraine,2021,sf1
+Ireland,Televoter,7,Croatia,2021,sf1
+Ireland,Televoter,6,Cyprus,2021,sf1
+Ireland,Televoter,5,Israel,2021,sf1
+Ireland,Televoter,4,Sweden,2021,sf1
+Ireland,Televoter,3,Romania,2021,sf1
+Ireland,Televoter,2,Norway,2021,sf1
+Ireland,Televoter,1,Russia,2021,sf1
+Israel,Jury,12,Lithuania,2021,sf1
+Israel,Jury,10,Cyprus,2021,sf1
+Israel,Jury,8,Malta,2021,sf1
+Israel,Jury,7,Belgium,2021,sf1
+Israel,Jury,6,Russia,2021,sf1
+Israel,Jury,5,Sweden,2021,sf1
+Israel,Jury,4,Ukraine,2021,sf1
+Israel,Jury,3,Slovenia,2021,sf1
+Israel,Jury,2,Norway,2021,sf1
+Israel,Jury,1,Croatia,2021,sf1
+Israel,Televoter,12,Russia,2021,sf1
+Israel,Televoter,10,Malta,2021,sf1
+Israel,Televoter,8,Ukraine,2021,sf1
+Israel,Televoter,7,Azerbaijan,2021,sf1
+Israel,Televoter,6,Cyprus,2021,sf1
+Israel,Televoter,5,Lithuania,2021,sf1
+Israel,Televoter,4,Norway,2021,sf1
+Israel,Televoter,3,Croatia,2021,sf1
+Israel,Televoter,2,Sweden,2021,sf1
+Israel,Televoter,1,Belgium,2021,sf1
+Italy,Jury,12,Israel,2021,sf1
+Italy,Jury,10,Belgium,2021,sf1
+Italy,Jury,8,Malta,2021,sf1
+Italy,Jury,7,Lithuania,2021,sf1
+Italy,Jury,6,Norway,2021,sf1
+Italy,Jury,5,Russia,2021,sf1
+Italy,Jury,4,Sweden,2021,sf1
+Italy,Jury,3,Cyprus,2021,sf1
+Italy,Jury,2,Croatia,2021,sf1
+Italy,Jury,1,Ireland,2021,sf1
+Italy,Televoter,12,Ukraine,2021,sf1
+Italy,Televoter,10,Romania,2021,sf1
+Italy,Televoter,8,Lithuania,2021,sf1
+Italy,Televoter,7,Russia,2021,sf1
+Italy,Televoter,6,Malta,2021,sf1
+Italy,Televoter,5,Azerbaijan,2021,sf1
+Italy,Televoter,4,Belgium,2021,sf1
+Italy,Televoter,3,Israel,2021,sf1
+Italy,Televoter,2,Cyprus,2021,sf1
+Italy,Televoter,1,Norway,2021,sf1
+Lithuania,Jury,12,Ukraine,2021,sf1
+Lithuania,Jury,10,Belgium,2021,sf1
+Lithuania,Jury,8,Australia,2021,sf1
+Lithuania,Jury,7,Israel,2021,sf1
+Lithuania,Jury,6,Malta,2021,sf1
+Lithuania,Jury,5,Romania,2021,sf1
+Lithuania,Jury,4,Cyprus,2021,sf1
+Lithuania,Jury,3,Sweden,2021,sf1
+Lithuania,Jury,2,Norway,2021,sf1
+Lithuania,Jury,1,Croatia,2021,sf1
+Lithuania,Televoter,12,Ukraine,2021,sf1
+Lithuania,Televoter,10,Belgium,2021,sf1
+Lithuania,Televoter,8,Russia,2021,sf1
+Lithuania,Televoter,7,Malta,2021,sf1
+Lithuania,Televoter,6,Norway,2021,sf1
+Lithuania,Televoter,5,Sweden,2021,sf1
+Lithuania,Televoter,4,Cyprus,2021,sf1
+Lithuania,Televoter,3,Azerbaijan,2021,sf1
+Lithuania,Televoter,2,Israel,2021,sf1
+Lithuania,Televoter,1,Ireland,2021,sf1
+Malta,Jury,12,Romania,2021,sf1
+Malta,Jury,10,Sweden,2021,sf1
+Malta,Jury,8,Cyprus,2021,sf1
+Malta,Jury,7,Ukraine,2021,sf1
+Malta,Jury,6,Azerbaijan,2021,sf1
+Malta,Jury,5,Slovenia,2021,sf1
+Malta,Jury,4,Lithuania,2021,sf1
+Malta,Jury,3,Croatia,2021,sf1
+Malta,Jury,2,Ireland,2021,sf1
+Malta,Jury,1,Russia,2021,sf1
+Malta,Televoter,12,Cyprus,2021,sf1
+Malta,Televoter,10,Sweden,2021,sf1
+Malta,Televoter,8,Azerbaijan,2021,sf1
+Malta,Televoter,7,Lithuania,2021,sf1
+Malta,Televoter,6,Norway,2021,sf1
+Malta,Televoter,5,Israel,2021,sf1
+Malta,Televoter,4,Ukraine,2021,sf1
+Malta,Televoter,3,Romania,2021,sf1
+Malta,Televoter,2,Russia,2021,sf1
+Malta,Televoter,1,Ireland,2021,sf1
+Netherlands,Jury,12,Russia,2021,sf1
+Netherlands,Jury,10,Belgium,2021,sf1
+Netherlands,Jury,8,Israel,2021,sf1
+Netherlands,Jury,7,Malta,2021,sf1
+Netherlands,Jury,6,Ukraine,2021,sf1
+Netherlands,Jury,5,Sweden,2021,sf1
+Netherlands,Jury,4,Norway,2021,sf1
+Netherlands,Jury,3,Lithuania,2021,sf1
+Netherlands,Jury,2,Azerbaijan,2021,sf1
+Netherlands,Jury,1,Romania,2021,sf1
+Netherlands,Televoter,12,Malta,2021,sf1
+Netherlands,Televoter,10,Ukraine,2021,sf1
+Netherlands,Televoter,8,Lithuania,2021,sf1
+Netherlands,Televoter,7,Belgium,2021,sf1
+Netherlands,Televoter,6,Israel,2021,sf1
+Netherlands,Televoter,5,Russia,2021,sf1
+Netherlands,Televoter,4,Azerbaijan,2021,sf1
+Netherlands,Televoter,3,Norway,2021,sf1
+Netherlands,Televoter,2,Sweden,2021,sf1
+Netherlands,Televoter,1,Cyprus,2021,sf1
+North Macedonia,Jury,12,Israel,2021,sf1
+North Macedonia,Jury,10,Malta,2021,sf1
+North Macedonia,Jury,8,Croatia,2021,sf1
+North Macedonia,Jury,7,Russia,2021,sf1
+North Macedonia,Jury,6,Azerbaijan,2021,sf1
+North Macedonia,Jury,5,Ukraine,2021,sf1
+North Macedonia,Jury,4,Cyprus,2021,sf1
+North Macedonia,Jury,3,Slovenia,2021,sf1
+North Macedonia,Jury,2,Norway,2021,sf1
+North Macedonia,Jury,1,Sweden,2021,sf1
+North Macedonia,Televoter,12,Croatia,2021,sf1
+North Macedonia,Televoter,10,Malta,2021,sf1
+North Macedonia,Televoter,8,Russia,2021,sf1
+North Macedonia,Televoter,7,Azerbaijan,2021,sf1
+North Macedonia,Televoter,6,Cyprus,2021,sf1
+North Macedonia,Televoter,5,Ukraine,2021,sf1
+North Macedonia,Televoter,4,Lithuania,2021,sf1
+North Macedonia,Televoter,3,Slovenia,2021,sf1
+North Macedonia,Televoter,2,Belgium,2021,sf1
+North Macedonia,Televoter,1,Israel,2021,sf1
+Norway,Jury,12,Malta,2021,sf1
+Norway,Jury,10,Sweden,2021,sf1
+Norway,Jury,8,Israel,2021,sf1
+Norway,Jury,7,Ukraine,2021,sf1
+Norway,Jury,6,Azerbaijan,2021,sf1
+Norway,Jury,5,Cyprus,2021,sf1
+Norway,Jury,4,Slovenia,2021,sf1
+Norway,Jury,3,Russia,2021,sf1
+Norway,Jury,2,Romania,2021,sf1
+Norway,Jury,1,Ireland,2021,sf1
+Norway,Televoter,12,Lithuania,2021,sf1
+Norway,Televoter,10,Sweden,2021,sf1
+Norway,Televoter,8,Malta,2021,sf1
+Norway,Televoter,7,Ukraine,2021,sf1
+Norway,Televoter,6,Azerbaijan,2021,sf1
+Norway,Televoter,5,Israel,2021,sf1
+Norway,Televoter,4,Russia,2021,sf1
+Norway,Televoter,3,Cyprus,2021,sf1
+Norway,Televoter,2,Belgium,2021,sf1
+Norway,Televoter,1,Croatia,2021,sf1
+Romania,Jury,12,Malta,2021,sf1
+Romania,Jury,10,Ukraine,2021,sf1
+Romania,Jury,8,Lithuania,2021,sf1
+Romania,Jury,7,Slovenia,2021,sf1
+Romania,Jury,6,North Macedonia,2021,sf1
+Romania,Jury,5,Russia,2021,sf1
+Romania,Jury,4,Sweden,2021,sf1
+Romania,Jury,3,Cyprus,2021,sf1
+Romania,Jury,2,Australia,2021,sf1
+Romania,Jury,1,Croatia,2021,sf1
+Romania,Televoter,12,Ukraine,2021,sf1
+Romania,Televoter,10,Israel,2021,sf1
+Romania,Televoter,8,Malta,2021,sf1
+Romania,Televoter,7,Azerbaijan,2021,sf1
+Romania,Televoter,6,Lithuania,2021,sf1
+Romania,Televoter,5,Russia,2021,sf1
+Romania,Televoter,4,Cyprus,2021,sf1
+Romania,Televoter,3,Norway,2021,sf1
+Romania,Televoter,2,North Macedonia,2021,sf1
+Romania,Televoter,1,Belgium,2021,sf1
+Russia,Jury,12,Malta,2021,sf1
+Russia,Jury,10,Israel,2021,sf1
+Russia,Jury,8,Cyprus,2021,sf1
+Russia,Jury,7,Sweden,2021,sf1
+Russia,Jury,6,Belgium,2021,sf1
+Russia,Jury,5,Ukraine,2021,sf1
+Russia,Jury,4,Azerbaijan,2021,sf1
+Russia,Jury,3,Croatia,2021,sf1
+Russia,Jury,2,Lithuania,2021,sf1
+Russia,Jury,1,Australia,2021,sf1
+Russia,Televoter,12,Ukraine,2021,sf1
+Russia,Televoter,10,Azerbaijan,2021,sf1
+Russia,Televoter,8,Malta,2021,sf1
+Russia,Televoter,7,Lithuania,2021,sf1
+Russia,Televoter,6,Norway,2021,sf1
+Russia,Televoter,5,Cyprus,2021,sf1
+Russia,Televoter,4,Israel,2021,sf1
+Russia,Televoter,3,Belgium,2021,sf1
+Russia,Televoter,2,Sweden,2021,sf1
+Russia,Televoter,1,Australia,2021,sf1
+Slovenia,Jury,12,Cyprus,2021,sf1
+Slovenia,Jury,10,Russia,2021,sf1
+Slovenia,Jury,8,Azerbaijan,2021,sf1
+Slovenia,Jury,7,Croatia,2021,sf1
+Slovenia,Jury,6,Malta,2021,sf1
+Slovenia,Jury,5,Belgium,2021,sf1
+Slovenia,Jury,4,North Macedonia,2021,sf1
+Slovenia,Jury,3,Norway,2021,sf1
+Slovenia,Jury,2,Israel,2021,sf1
+Slovenia,Jury,1,Ukraine,2021,sf1
+Slovenia,Televoter,12,Croatia,2021,sf1
+Slovenia,Televoter,10,Ukraine,2021,sf1
+Slovenia,Televoter,8,North Macedonia,2021,sf1
+Slovenia,Televoter,7,Russia,2021,sf1
+Slovenia,Televoter,6,Norway,2021,sf1
+Slovenia,Televoter,5,Malta,2021,sf1
+Slovenia,Televoter,4,Belgium,2021,sf1
+Slovenia,Televoter,3,Azerbaijan,2021,sf1
+Slovenia,Televoter,2,Sweden,2021,sf1
+Slovenia,Televoter,1,Cyprus,2021,sf1
+Sweden,Jury,12,Malta,2021,sf1
+Sweden,Jury,10,Israel,2021,sf1
+Sweden,Jury,8,Norway,2021,sf1
+Sweden,Jury,7,Lithuania,2021,sf1
+Sweden,Jury,6,Russia,2021,sf1
+Sweden,Jury,5,Ukraine,2021,sf1
+Sweden,Jury,4,Cyprus,2021,sf1
+Sweden,Jury,3,Azerbaijan,2021,sf1
+Sweden,Jury,2,Belgium,2021,sf1
+Sweden,Jury,1,Ireland,2021,sf1
+Sweden,Televoter,12,Norway,2021,sf1
+Sweden,Televoter,10,Lithuania,2021,sf1
+Sweden,Televoter,8,Malta,2021,sf1
+Sweden,Televoter,7,Ukraine,2021,sf1
+Sweden,Televoter,6,Israel,2021,sf1
+Sweden,Televoter,5,Belgium,2021,sf1
+Sweden,Televoter,4,Cyprus,2021,sf1
+Sweden,Televoter,3,Russia,2021,sf1
+Sweden,Televoter,2,Croatia,2021,sf1
+Sweden,Televoter,1,Azerbaijan,2021,sf1
+Ukraine,Jury,12,Australia,2021,sf1
+Ukraine,Jury,10,Belgium,2021,sf1
+Ukraine,Jury,8,Croatia,2021,sf1
+Ukraine,Jury,7,Romania,2021,sf1
+Ukraine,Jury,6,Israel,2021,sf1
+Ukraine,Jury,5,Malta,2021,sf1
+Ukraine,Jury,4,Slovenia,2021,sf1
+Ukraine,Jury,3,Sweden,2021,sf1
+Ukraine,Jury,2,Cyprus,2021,sf1
+Ukraine,Jury,1,Lithuania,2021,sf1
+Ukraine,Televoter,12,Lithuania,2021,sf1
+Ukraine,Televoter,10,Azerbaijan,2021,sf1
+Ukraine,Televoter,8,Malta,2021,sf1
+Ukraine,Televoter,7,Israel,2021,sf1
+Ukraine,Televoter,6,Russia,2021,sf1
+Ukraine,Televoter,5,Belgium,2021,sf1
+Ukraine,Televoter,4,Cyprus,2021,sf1
+Ukraine,Televoter,3,Sweden,2021,sf1
+Ukraine,Televoter,2,Norway,2021,sf1
+Ukraine,Televoter,1,Australia,2021,sf1
+Albania, Jury,12, Switzerland,2021,sf2
+Albania, Jury,10, Greece,2021,sf2
+Albania, Jury,8, San Marino,2021,sf2
+Albania, Jury,7, Austria,2021,sf2
+Albania, Jury,6, Finland,2021,sf2
+Albania, Jury,5, Serbia,2021,sf2
+Albania, Jury,4, Iceland,2021,sf2
+Albania, Jury,3, Moldova,2021,sf2
+Albania, Jury,2, Bulgaria,2021,sf2
+Albania, Jury,1, Portugal,2021,sf2
+Albania, Televoter,12, Switzerland,2021,sf2
+Albania, Televoter,10, Greece,2021,sf2
+Albania, Televoter,8, Bulgaria,2021,sf2
+Albania, Televoter,7, San Marino,2021,sf2
+Albania, Televoter,6, Portugal,2021,sf2
+Albania, Televoter,5, Finland,2021,sf2
+Albania, Televoter,4, Serbia,2021,sf2
+Albania, Televoter,3, Austria,2021,sf2
+Albania, Televoter,2, Denmark,2021,sf2
+Albania, Televoter,1, Iceland,2021,sf2
+Austria, Jury,12, Switzerland,2021,sf2
+Austria, Jury,10, Iceland,2021,sf2
+Austria, Jury,8, Bulgaria,2021,sf2
+Austria, Jury,7, Portugal,2021,sf2
+Austria, Jury,6, Serbia,2021,sf2
+Austria, Jury,5, Finland,2021,sf2
+Austria, Jury,4, Denmark,2021,sf2
+Austria, Jury,3, Albania,2021,sf2
+Austria, Jury,2, Moldova,2021,sf2
+Austria, Jury,1, San Marino,2021,sf2
+Austria, Televoter,12, Serbia,2021,sf2
+Austria, Televoter,10, Iceland,2021,sf2
+Austria, Televoter,8, Switzerland,2021,sf2
+Austria, Televoter,7, Portugal,2021,sf2
+Austria, Televoter,6, Moldova,2021,sf2
+Austria, Televoter,5, Finland,2021,sf2
+Austria, Televoter,4, Bulgaria,2021,sf2
+Austria, Televoter,3, Denmark,2021,sf2
+Austria, Televoter,2, Albania,2021,sf2
+Austria, Televoter,1, Poland,2021,sf2
+Bulgaria, Jury,12, Moldova,2021,sf2
+Bulgaria, Jury,10, Greece,2021,sf2
+Bulgaria, Jury,8, Portugal,2021,sf2
+Bulgaria, Jury,7, Estonia,2021,sf2
+Bulgaria, Jury,6, Austria,2021,sf2
+Bulgaria, Jury,5, Czechia,2021,sf2
+Bulgaria, Jury,4, Albania,2021,sf2
+Bulgaria, Jury,3, Poland,2021,sf2
+Bulgaria, Jury,2, San Marino,2021,sf2
+Bulgaria, Jury,1, Georgia,2021,sf2
+Bulgaria, Televoter,12, Finland,2021,sf2
+Bulgaria, Televoter,10, Serbia,2021,sf2
+Bulgaria, Televoter,8, Greece,2021,sf2
+Bulgaria, Televoter,7, Switzerland,2021,sf2
+Bulgaria, Televoter,6, Iceland,2021,sf2
+Bulgaria, Televoter,5, Portugal,2021,sf2
+Bulgaria, Televoter,4, Albania,2021,sf2
+Bulgaria, Televoter,3, Denmark,2021,sf2
+Bulgaria, Televoter,2, Georgia,2021,sf2
+Bulgaria, Televoter,1, Estonia,2021,sf2
+Czechia, Jury,12, Portugal,2021,sf2
+Czechia, Jury,10, Iceland,2021,sf2
+Czechia, Jury,8, Switzerland,2021,sf2
+Czechia, Jury,7, Bulgaria,2021,sf2
+Czechia, Jury,6, Finland,2021,sf2
+Czechia, Jury,5, Greece,2021,sf2
+Czechia, Jury,4, Serbia,2021,sf2
+Czechia, Jury,3, Denmark,2021,sf2
+Czechia, Jury,2, San Marino,2021,sf2
+Czechia, Jury,1, Albania,2021,sf2
+Czechia, Televoter,12, Moldova,2021,sf2
+Czechia, Televoter,10, Iceland,2021,sf2
+Czechia, Televoter,8, Finland,2021,sf2
+Czechia, Televoter,7, Switzerland,2021,sf2
+Czechia, Televoter,6, Bulgaria,2021,sf2
+Czechia, Televoter,5, Serbia,2021,sf2
+Czechia, Televoter,4, Portugal,2021,sf2
+Czechia, Televoter,3, Denmark,2021,sf2
+Czechia, Televoter,2, Greece,2021,sf2
+Czechia, Televoter,1, Estonia,2021,sf2
+Denmark, Jury,12, Switzerland,2021,sf2
+Denmark, Jury,10, Albania,2021,sf2
+Denmark, Jury,8, Iceland,2021,sf2
+Denmark, Jury,7, Finland,2021,sf2
+Denmark, Jury,6, Bulgaria,2021,sf2
+Denmark, Jury,5, San Marino,2021,sf2
+Denmark, Jury,4, Portugal,2021,sf2
+Denmark, Jury,3, Austria,2021,sf2
+Denmark, Jury,2, Greece,2021,sf2
+Denmark, Jury,1, Poland,2021,sf2
+Denmark, Televoter,12, Iceland,2021,sf2
+Denmark, Televoter,10, Finland,2021,sf2
+Denmark, Televoter,8, Portugal,2021,sf2
+Denmark, Televoter,7, Switzerland,2021,sf2
+Denmark, Televoter,6, Estonia,2021,sf2
+Denmark, Televoter,5, Bulgaria,2021,sf2
+Denmark, Televoter,4, Austria,2021,sf2
+Denmark, Televoter,3, Greece,2021,sf2
+Denmark, Televoter,2, San Marino,2021,sf2
+Denmark, Televoter,1, Georgia,2021,sf2
+Estonia, Jury,12, Switzerland,2021,sf2
+Estonia, Jury,10, Bulgaria,2021,sf2
+Estonia, Jury,8, Iceland,2021,sf2
+Estonia, Jury,7, Finland,2021,sf2
+Estonia, Jury,6, Portugal,2021,sf2
+Estonia, Jury,5, Serbia,2021,sf2
+Estonia, Jury,4, Austria,2021,sf2
+Estonia, Jury,3, Greece,2021,sf2
+Estonia, Jury,2, Albania,2021,sf2
+Estonia, Jury,1, San Marino,2021,sf2
+Estonia, Televoter,12, Moldova,2021,sf2
+Estonia, Televoter,10, Finland,2021,sf2
+Estonia, Televoter,8, Denmark,2021,sf2
+Estonia, Televoter,7, Iceland,2021,sf2
+Estonia, Televoter,6, Switzerland,2021,sf2
+Estonia, Televoter,5, Portugal,2021,sf2
+Estonia, Televoter,4, San Marino,2021,sf2
+Estonia, Televoter,3, Georgia,2021,sf2
+Estonia, Televoter,2, Bulgaria,2021,sf2
+Estonia, Televoter,1, Latvia,2021,sf2
+Finland, Jury,12, Bulgaria,2021,sf2
+Finland, Jury,10, Switzerland,2021,sf2
+Finland, Jury,8, Iceland,2021,sf2
+Finland, Jury,7, Portugal,2021,sf2
+Finland, Jury,6, Greece,2021,sf2
+Finland, Jury,5, Austria,2021,sf2
+Finland, Jury,4, Albania,2021,sf2
+Finland, Jury,3, Serbia,2021,sf2
+Finland, Jury,2, San Marino,2021,sf2
+Finland, Jury,1, Denmark,2021,sf2
+Finland, Televoter,12, Iceland,2021,sf2
+Finland, Televoter,10, Switzerland,2021,sf2
+Finland, Televoter,8, Denmark,2021,sf2
+Finland, Televoter,7, Estonia,2021,sf2
+Finland, Televoter,6, Portugal,2021,sf2
+Finland, Televoter,5, Moldova,2021,sf2
+Finland, Televoter,4, Bulgaria,2021,sf2
+Finland, Televoter,3, Albania,2021,sf2
+Finland, Televoter,2, Greece,2021,sf2
+Finland, Televoter,1, San Marino,2021,sf2
+Georgia, Jury,12, Switzerland,2021,sf2
+Georgia, Jury,10, Portugal,2021,sf2
+Georgia, Jury,8, Bulgaria,2021,sf2
+Georgia, Jury,7, Iceland,2021,sf2
+Georgia, Jury,6, Czechia,2021,sf2
+Georgia, Jury,5, Austria,2021,sf2
+Georgia, Jury,4, Finland,2021,sf2
+Georgia, Jury,3, Estonia,2021,sf2
+Georgia, Jury,2, Serbia,2021,sf2
+Georgia, Jury,1, San Marino,2021,sf2
+Georgia, Televoter,12, San Marino,2021,sf2
+Georgia, Televoter,10, Greece,2021,sf2
+Georgia, Televoter,8, Bulgaria,2021,sf2
+Georgia, Televoter,7, Iceland,2021,sf2
+Georgia, Televoter,6, Finland,2021,sf2
+Georgia, Televoter,5, Latvia,2021,sf2
+Georgia, Televoter,4, Denmark,2021,sf2
+Georgia, Televoter,3, Switzerland,2021,sf2
+Georgia, Televoter,2, Albania,2021,sf2
+Georgia, Televoter,1, Serbia,2021,sf2
+Greece, Jury,12, Moldova,2021,sf2
+Greece, Jury,10, San Marino,2021,sf2
+Greece, Jury,8, Bulgaria,2021,sf2
+Greece, Jury,7, Iceland,2021,sf2
+Greece, Jury,6, Albania,2021,sf2
+Greece, Jury,5, Portugal,2021,sf2
+Greece, Jury,4, Czechia,2021,sf2
+Greece, Jury,3, Serbia,2021,sf2
+Greece, Jury,2, Poland,2021,sf2
+Greece, Jury,1, Estonia,2021,sf2
+Greece, Televoter,12, Moldova,2021,sf2
+Greece, Televoter,10, Albania,2021,sf2
+Greece, Televoter,8, Finland,2021,sf2
+Greece, Televoter,7, Switzerland,2021,sf2
+Greece, Televoter,6, Bulgaria,2021,sf2
+Greece, Televoter,5, Iceland,2021,sf2
+Greece, Televoter,4, Serbia,2021,sf2
+Greece, Televoter,3, Portugal,2021,sf2
+Greece, Televoter,2, San Marino,2021,sf2
+Greece, Televoter,1, Denmark,2021,sf2
+Iceland, Jury,12, Switzerland,2021,sf2
+Iceland, Jury,10, Bulgaria,2021,sf2
+Iceland, Jury,8, Portugal,2021,sf2
+Iceland, Jury,7, Greece,2021,sf2
+Iceland, Jury,6, Finland,2021,sf2
+Iceland, Jury,5, Albania,2021,sf2
+Iceland, Jury,4, Austria,2021,sf2
+Iceland, Jury,3, San Marino,2021,sf2
+Iceland, Jury,2, Serbia,2021,sf2
+Iceland, Jury,1, Denmark,2021,sf2
+Iceland, Televoter,12, Denmark,2021,sf2
+Iceland, Televoter,10, Finland,2021,sf2
+Iceland, Televoter,8, Portugal,2021,sf2
+Iceland, Televoter,7, Switzerland,2021,sf2
+Iceland, Televoter,6, Moldova,2021,sf2
+Iceland, Televoter,5, Greece,2021,sf2
+Iceland, Televoter,4, Bulgaria,2021,sf2
+Iceland, Televoter,3, San Marino,2021,sf2
+Iceland, Televoter,2, Austria,2021,sf2
+Iceland, Televoter,1, Poland,2021,sf2
+Latvia, Jury,12, Iceland,2021,sf2
+Latvia, Jury,10, Switzerland,2021,sf2
+Latvia, Jury,8, Portugal,2021,sf2
+Latvia, Jury,7, Finland,2021,sf2
+Latvia, Jury,6, Bulgaria,2021,sf2
+Latvia, Jury,5, Albania,2021,sf2
+Latvia, Jury,4, Moldova,2021,sf2
+Latvia, Jury,3, Estonia,2021,sf2
+Latvia, Jury,2, San Marino,2021,sf2
+Latvia, Jury,1, Austria,2021,sf2
+Latvia, Televoter,12, Moldova,2021,sf2
+Latvia, Televoter,10, Estonia,2021,sf2
+Latvia, Televoter,8, Finland,2021,sf2
+Latvia, Televoter,7, Iceland,2021,sf2
+Latvia, Televoter,6, Switzerland,2021,sf2
+Latvia, Televoter,5, Portugal,2021,sf2
+Latvia, Televoter,4, Denmark,2021,sf2
+Latvia, Televoter,3, Georgia,2021,sf2
+Latvia, Televoter,2, Bulgaria,2021,sf2
+Latvia, Televoter,1, Greece,2021,sf2
+Moldova, Jury,12, Bulgaria,2021,sf2
+Moldova, Jury,10, San Marino,2021,sf2
+Moldova, Jury,8, Greece,2021,sf2
+Moldova, Jury,7, Switzerland,2021,sf2
+Moldova, Jury,6, Iceland,2021,sf2
+Moldova, Jury,5, Albania,2021,sf2
+Moldova, Jury,4, Latvia,2021,sf2
+Moldova, Jury,3, Estonia,2021,sf2
+Moldova, Jury,2, Portugal,2021,sf2
+Moldova, Jury,1, Czechia,2021,sf2
+Moldova, Televoter,12, Greece,2021,sf2
+Moldova, Televoter,10, Switzerland,2021,sf2
+Moldova, Televoter,8, Finland,2021,sf2
+Moldova, Televoter,7, Poland,2021,sf2
+Moldova, Televoter,6, Iceland,2021,sf2
+Moldova, Televoter,5, Bulgaria,2021,sf2
+Moldova, Televoter,4, Portugal,2021,sf2
+Moldova, Televoter,3, Estonia,2021,sf2
+Moldova, Televoter,2, Albania,2021,sf2
+Moldova, Televoter,1, Serbia,2021,sf2
+Poland, Jury,12, Greece,2021,sf2
+Poland, Jury,10, San Marino,2021,sf2
+Poland, Jury,8, Switzerland,2021,sf2
+Poland, Jury,7, Moldova,2021,sf2
+Poland, Jury,6, Albania,2021,sf2
+Poland, Jury,5, Bulgaria,2021,sf2
+Poland, Jury,4, Estonia,2021,sf2
+Poland, Jury,3, Iceland,2021,sf2
+Poland, Jury,2, Finland,2021,sf2
+Poland, Jury,1, Portugal,2021,sf2
+Poland, Televoter,12, Finland,2021,sf2
+Poland, Televoter,10, Iceland,2021,sf2
+Poland, Televoter,8, Switzerland,2021,sf2
+Poland, Televoter,7, Moldova,2021,sf2
+Poland, Televoter,6, Denmark,2021,sf2
+Poland, Televoter,5, Portugal,2021,sf2
+Poland, Televoter,4, Bulgaria,2021,sf2
+Poland, Televoter,3, Georgia,2021,sf2
+Poland, Televoter,2, San Marino,2021,sf2
+Poland, Televoter,1, Serbia,2021,sf2
+Portugal, Jury,12, Bulgaria,2021,sf2
+Portugal, Jury,10, Iceland,2021,sf2
+Portugal, Jury,8, Albania,2021,sf2
+Portugal, Jury,7, Switzerland,2021,sf2
+Portugal, Jury,6, Finland,2021,sf2
+Portugal, Jury,5, Czechia,2021,sf2
+Portugal, Jury,4, Serbia,2021,sf2
+Portugal, Jury,3, Greece,2021,sf2
+Portugal, Jury,2, Austria,2021,sf2
+Portugal, Jury,1, Estonia,2021,sf2
+Portugal, Televoter,12, Moldova,2021,sf2
+Portugal, Televoter,10, Greece,2021,sf2
+Portugal, Televoter,8, Switzerland,2021,sf2
+Portugal, Televoter,7, Iceland,2021,sf2
+Portugal, Televoter,6, Finland,2021,sf2
+Portugal, Televoter,5, Bulgaria,2021,sf2
+Portugal, Televoter,4, Denmark,2021,sf2
+Portugal, Televoter,3, Georgia,2021,sf2
+Portugal, Televoter,2, Serbia,2021,sf2
+Portugal, Televoter,1, Albania,2021,sf2
+San Marino, Jury,12, Poland,2021,sf2
+San Marino, Jury,10, Greece,2021,sf2
+San Marino, Jury,8, Moldova,2021,sf2
+San Marino, Jury,7, Albania,2021,sf2
+San Marino, Jury,6, Switzerland,2021,sf2
+San Marino, Jury,5, Bulgaria,2021,sf2
+San Marino, Jury,4, Serbia,2021,sf2
+San Marino, Jury,3, Finland,2021,sf2
+San Marino, Jury,2, Portugal,2021,sf2
+San Marino, Jury,1, Iceland,2021,sf2
+San Marino, Televoter,12, Moldova,2021,sf2
+San Marino, Televoter,10, Finland,2021,sf2
+San Marino, Televoter,8, Iceland,2021,sf2
+San Marino, Televoter,7, Serbia,2021,sf2
+San Marino, Televoter,6, Switzerland,2021,sf2
+San Marino, Televoter,5, Greece,2021,sf2
+San Marino, Televoter,4, Bulgaria,2021,sf2
+San Marino, Televoter,3, Portugal,2021,sf2
+San Marino, Televoter,2, Albania,2021,sf2
+San Marino, Televoter,1, Denmark,2021,sf2
+Serbia, Jury,12, Iceland,2021,sf2
+Serbia, Jury,10, Bulgaria,2021,sf2
+Serbia, Jury,8, Greece,2021,sf2
+Serbia, Jury,7, Portugal,2021,sf2
+Serbia, Jury,6, Finland,2021,sf2
+Serbia, Jury,5, Switzerland,2021,sf2
+Serbia, Jury,4, Moldova,2021,sf2
+Serbia, Jury,3, Austria,2021,sf2
+Serbia, Jury,2, San Marino,2021,sf2
+Serbia, Jury,1, Estonia,2021,sf2
+Serbia, Televoter,12, Moldova,2021,sf2
+Serbia, Televoter,10, Finland,2021,sf2
+Serbia, Televoter,8, Greece,2021,sf2
+Serbia, Televoter,7, Iceland,2021,sf2
+Serbia, Televoter,6, Bulgaria,2021,sf2
+Serbia, Televoter,5, Switzerland,2021,sf2
+Serbia, Televoter,4, Portugal,2021,sf2
+Serbia, Televoter,3, San Marino,2021,sf2
+Serbia, Televoter,2, Denmark,2021,sf2
+Serbia, Televoter,1, Albania,2021,sf2
+Spain, Jury,12, Switzerland,2021,sf2
+Spain, Jury,10, Portugal,2021,sf2
+Spain, Jury,8, Iceland,2021,sf2
+Spain, Jury,7, Greece,2021,sf2
+Spain, Jury,6, Austria,2021,sf2
+Spain, Jury,5, Bulgaria,2021,sf2
+Spain, Jury,4, Serbia,2021,sf2
+Spain, Jury,3, San Marino,2021,sf2
+Spain, Jury,2, Albania,2021,sf2
+Spain, Jury,1, Estonia,2021,sf2
+Spain, Televoter,12, Portugal,2021,sf2
+Spain, Televoter,10, Bulgaria,2021,sf2
+Spain, Televoter,8, Iceland,2021,sf2
+Spain, Televoter,7, Switzerland,2021,sf2
+Spain, Televoter,6, Finland,2021,sf2
+Spain, Televoter,5, Denmark,2021,sf2
+Spain, Televoter,4, San Marino,2021,sf2
+Spain, Televoter,3, Moldova,2021,sf2
+Spain, Televoter,2, Serbia,2021,sf2
+Spain, Televoter,1, Greece,2021,sf2
+Switzerland, Jury,12, Bulgaria,2021,sf2
+Switzerland, Jury,10, Portugal,2021,sf2
+Switzerland, Jury,8, Iceland,2021,sf2
+Switzerland, Jury,7, Austria,2021,sf2
+Switzerland, Jury,6, Finland,2021,sf2
+Switzerland, Jury,5, Albania,2021,sf2
+Switzerland, Jury,4, Serbia,2021,sf2
+Switzerland, Jury,3, Estonia,2021,sf2
+Switzerland, Jury,2, San Marino,2021,sf2
+Switzerland, Jury,1, Greece,2021,sf2
+Switzerland, Televoter,12, Serbia,2021,sf2
+Switzerland, Televoter,10, Portugal,2021,sf2
+Switzerland, Televoter,8, Albania,2021,sf2
+Switzerland, Televoter,7, Iceland,2021,sf2
+Switzerland, Televoter,6, Finland,2021,sf2
+Switzerland, Televoter,5, Denmark,2021,sf2
+Switzerland, Televoter,4, Austria,2021,sf2
+Switzerland, Televoter,3, Bulgaria,2021,sf2
+Switzerland, Televoter,2, Greece,2021,sf2
+Switzerland, Televoter,1, Estonia,2021,sf2
+United Kingdom, Jury,12, Iceland,2021,sf2
+United Kingdom, Jury,10, Portugal,2021,sf2
+United Kingdom, Jury,8, Switzerland,2021,sf2
+United Kingdom, Jury,7, Bulgaria,2021,sf2
+United Kingdom, Jury,6, Finland,2021,sf2
+United Kingdom, Jury,5, Serbia,2021,sf2
+United Kingdom, Jury,4, San Marino,2021,sf2
+United Kingdom, Jury,3, Moldova,2021,sf2
+United Kingdom, Jury,2, Estonia,2021,sf2
+United Kingdom, Jury,1, Albania,2021,sf2
+United Kingdom, Televoter,12, Iceland,2021,sf2
+United Kingdom, Televoter,10, Bulgaria,2021,sf2
+United Kingdom, Televoter,8, Finland,2021,sf2
+United Kingdom, Televoter,7, Poland,2021,sf2
+United Kingdom, Televoter,6, Portugal,2021,sf2
+United Kingdom, Televoter,5, Denmark,2021,sf2
+United Kingdom, Televoter,4, Latvia,2021,sf2
+United Kingdom, Televoter,3, Switzerland,2021,sf2
+United Kingdom, Televoter,2, San Marino,2021,sf2
+United Kingdom, Televoter,1, Greece,2021,sf2
+Albania,Jury,12,Switzerland,2021,f
+Albania,Jury,10,France,2021,f
+Albania,Jury,8,Malta,2021,f
+Albania,Jury,7,Cyprus,2021,f
+Albania,Jury,6,Greece,2021,f
+Albania,Jury,5,San Marino,2021,f
+Albania,Jury,4,Italy,2021,f
+Albania,Jury,3,Finland,2021,f
+Albania,Jury,2,Azerbaijan,2021,f
+Albania,Jury,1,Serbia,2021,f
+Albania,Televote,12,Switzerland,2021,f
+Albania,Televote,10,Italy,2021,f
+Albania,Televote,8,Greece,2021,f
+Albania,Televote,7,Moldova,2021,f
+Albania,Televote,6,France,2021,f
+Albania,Televote,5,Bulgaria,2021,f
+Albania,Televote,4,Ukraine,2021,f
+Albania,Televote,3,Finland,2021,f
+Albania,Televote,2,Cyprus,2021,f
+Albania,Televote,1,Sweden,2021,f
+Australia,Jury,12,Malta,2021,f
+Australia,Jury,10,Switzerland,2021,f
+Australia,Jury,8,Iceland,2021,f
+Australia,Jury,7,France,2021,f
+Australia,Jury,6,Italy,2021,f
+Australia,Jury,5,Ukraine,2021,f
+Australia,Jury,4,Cyprus,2021,f
+Australia,Jury,3,Netherlands,2021,f
+Australia,Jury,2,Bulgaria,2021,f
+Australia,Jury,1,Russia,2021,f
+Australia,Televote,12,Iceland,2021,f
+Australia,Televote,10,Ukraine,2021,f
+Australia,Televote,8,Malta,2021,f
+Australia,Televote,7,Italy,2021,f
+Australia,Televote,6,Lithuania,2021,f
+Australia,Televote,5,Switzerland,2021,f
+Australia,Televote,4,France,2021,f
+Australia,Televote,3,Finland,2021,f
+Australia,Televote,2,Serbia,2021,f
+Australia,Televote,1,Norway,2021,f
+Austria,Jury,12,Iceland,2021,f
+Austria,Jury,10,Switzerland,2021,f
+Austria,Jury,8,France,2021,f
+Austria,Jury,7,Portugal,2021,f
+Austria,Jury,6,Italy,2021,f
+Austria,Jury,5,Bulgaria,2021,f
+Austria,Jury,4,Malta,2021,f
+Austria,Jury,3,Netherlands,2021,f
+Austria,Jury,2,Germany,2021,f
+Austria,Jury,1,Finland,2021,f
+Austria,Televote,12,Serbia,2021,f
+Austria,Televote,10,Iceland,2021,f
+Austria,Televote,8,Italy,2021,f
+Austria,Televote,7,Ukraine,2021,f
+Austria,Televote,6,France,2021,f
+Austria,Televote,5,Switzerland,2021,f
+Austria,Televote,4,Finland,2021,f
+Austria,Televote,3,Lithuania,2021,f
+Austria,Televote,2,Malta,2021,f
+Austria,Televote,1,Norway,2021,f
+Azerbaijan,Jury,12,Russia,2021,f
+Azerbaijan,Jury,10,Greece,2021,f
+Azerbaijan,Jury,8,Moldova,2021,f
+Azerbaijan,Jury,7,Malta,2021,f
+Azerbaijan,Jury,6,Ukraine,2021,f
+Azerbaijan,Jury,5,Sweden,2021,f
+Azerbaijan,Jury,4,France,2021,f
+Azerbaijan,Jury,3,Belgium,2021,f
+Azerbaijan,Jury,2,Portugal,2021,f
+Azerbaijan,Jury,1,Bulgaria,2021,f
+Azerbaijan,Televote,12,Israel,2021,f
+Azerbaijan,Televote,10,Italy,2021,f
+Azerbaijan,Televote,8,Ukraine,2021,f
+Azerbaijan,Televote,7,Norway,2021,f
+Azerbaijan,Televote,6,Russia,2021,f
+Azerbaijan,Televote,5,Finland,2021,f
+Azerbaijan,Televote,4,Switzerland,2021,f
+Azerbaijan,Televote,3,San Marino,2021,f
+Azerbaijan,Televote,2,France,2021,f
+Azerbaijan,Televote,1,Moldova,2021,f
+Belgium,Jury,12,Switzerland,2021,f
+Belgium,Jury,10,Ukraine,2021,f
+Belgium,Jury,8,Finland,2021,f
+Belgium,Jury,7,Russia,2021,f
+Belgium,Jury,6,Bulgaria,2021,f
+Belgium,Jury,5,Malta,2021,f
+Belgium,Jury,4,Sweden,2021,f
+Belgium,Jury,3,Iceland,2021,f
+Belgium,Jury,2,Italy,2021,f
+Belgium,Jury,1,Portugal,2021,f
+Belgium,Televote,12,France,2021,f
+Belgium,Televote,10,Ukraine,2021,f
+Belgium,Televote,8,Italy,2021,f
+Belgium,Televote,7,Lithuania,2021,f
+Belgium,Televote,6,Finland,2021,f
+Belgium,Televote,5,Iceland,2021,f
+Belgium,Televote,4,Switzerland,2021,f
+Belgium,Televote,3,Sweden,2021,f
+Belgium,Televote,2,Malta,2021,f
+Belgium,Televote,1,Norway,2021,f
+Bulgaria,Jury,12,Moldova,2021,f
+Bulgaria,Jury,10,Italy,2021,f
+Bulgaria,Jury,8,Greece,2021,f
+Bulgaria,Jury,7,France,2021,f
+Bulgaria,Jury,6,Portugal,2021,f
+Bulgaria,Jury,5,Malta,2021,f
+Bulgaria,Jury,4,Spain,2021,f
+Bulgaria,Jury,3,Israel,2021,f
+Bulgaria,Jury,2,Netherlands,2021,f
+Bulgaria,Jury,1,Finland,2021,f
+Bulgaria,Televote,12,Italy,2021,f
+Bulgaria,Televote,10,France,2021,f
+Bulgaria,Televote,8,Finland,2021,f
+Bulgaria,Televote,7,Russia,2021,f
+Bulgaria,Televote,6,Ukraine,2021,f
+Bulgaria,Televote,5,Serbia,2021,f
+Bulgaria,Televote,4,Azerbaijan,2021,f
+Bulgaria,Televote,3,Switzerland,2021,f
+Bulgaria,Televote,2,Greece,2021,f
+Bulgaria,Televote,1,Sweden,2021,f
+Croatia,Jury,12,Italy,2021,f
+Croatia,Jury,10,Iceland,2021,f
+Croatia,Jury,8,Switzerland,2021,f
+Croatia,Jury,7,Serbia,2021,f
+Croatia,Jury,6,France,2021,f
+Croatia,Jury,5,Israel,2021,f
+Croatia,Jury,4,Russia,2021,f
+Croatia,Jury,3,Malta,2021,f
+Croatia,Jury,2,Lithuania,2021,f
+Croatia,Jury,1,Portugal,2021,f
+Croatia,Televote,12,Serbia,2021,f
+Croatia,Televote,10,Italy,2021,f
+Croatia,Televote,8,Ukraine,2021,f
+Croatia,Televote,7,France,2021,f
+Croatia,Televote,6,Finland,2021,f
+Croatia,Televote,5,Switzerland,2021,f
+Croatia,Televote,4,Iceland,2021,f
+Croatia,Televote,3,Russia,2021,f
+Croatia,Televote,2,Azerbaijan,2021,f
+Croatia,Televote,1,Albania,2021,f
+Cyprus,Jury,12,Greece,2021,f
+Cyprus,Jury,10,Malta,2021,f
+Cyprus,Jury,8,Italy,2021,f
+Cyprus,Jury,7,France,2021,f
+Cyprus,Jury,6,Russia,2021,f
+Cyprus,Jury,5,Bulgaria,2021,f
+Cyprus,Jury,4,Belgium,2021,f
+Cyprus,Jury,3,Finland,2021,f
+Cyprus,Jury,2,Switzerland,2021,f
+Cyprus,Jury,1,Portugal,2021,f
+Cyprus,Televote,12,Greece,2021,f
+Cyprus,Televote,10,Italy,2021,f
+Cyprus,Televote,8,France,2021,f
+Cyprus,Televote,7,Bulgaria,2021,f
+Cyprus,Televote,6,Ukraine,2021,f
+Cyprus,Televote,5,Lithuania,2021,f
+Cyprus,Televote,4,Finland,2021,f
+Cyprus,Televote,3,Russia,2021,f
+Cyprus,Televote,2,Israel,2021,f
+Cyprus,Televote,1,Malta,2021,f
+Czechia,Jury,12,Portugal,2021,f
+Czechia,Jury,10,France,2021,f
+Czechia,Jury,8,Iceland,2021,f
+Czechia,Jury,7,Malta,2021,f
+Czechia,Jury,6,Italy,2021,f
+Czechia,Jury,5,Switzerland,2021,f
+Czechia,Jury,4,Bulgaria,2021,f
+Czechia,Jury,3,Belgium,2021,f
+Czechia,Jury,2,Russia,2021,f
+Czechia,Jury,1,Finland,2021,f
+Czechia,Televote,12,Moldova,2021,f
+Czechia,Televote,10,Ukraine,2021,f
+Czechia,Televote,8,Greece,2021,f
+Czechia,Televote,7,Iceland,2021,f
+Czechia,Televote,6,Italy,2021,f
+Czechia,Televote,5,Russia,2021,f
+Czechia,Televote,4,Finland,2021,f
+Czechia,Televote,3,Switzerland,2021,f
+Czechia,Televote,2,France,2021,f
+Czechia,Televote,1,Lithuania,2021,f
+Denmark,Jury,12,Switzerland,2021,f
+Denmark,Jury,10,Iceland,2021,f
+Denmark,Jury,8,Finland,2021,f
+Denmark,Jury,7,Albania,2021,f
+Denmark,Jury,6,Bulgaria,2021,f
+Denmark,Jury,5,San Marino,2021,f
+Denmark,Jury,4,Malta,2021,f
+Denmark,Jury,3,Norway,2021,f
+Denmark,Jury,2,Sweden,2021,f
+Denmark,Jury,1,Israel,2021,f
+Denmark,Televote,12,Iceland,2021,f
+Denmark,Televote,10,Sweden,2021,f
+Denmark,Televote,8,Norway,2021,f
+Denmark,Televote,7,Finland,2021,f
+Denmark,Televote,6,Switzerland,2021,f
+Denmark,Televote,5,Italy,2021,f
+Denmark,Televote,4,Lithuania,2021,f
+Denmark,Televote,3,France,2021,f
+Denmark,Televote,2,Malta,2021,f
+Denmark,Televote,1,Ukraine,2021,f
+Estonia,Jury,12,Switzerland,2021,f
+Estonia,Jury,10,France,2021,f
+Estonia,Jury,8,Iceland,2021,f
+Estonia,Jury,7,Finland,2021,f
+Estonia,Jury,6,Bulgaria,2021,f
+Estonia,Jury,5,Portugal,2021,f
+Estonia,Jury,4,Ukraine,2021,f
+Estonia,Jury,3,Italy,2021,f
+Estonia,Jury,2,Lithuania,2021,f
+Estonia,Jury,1,Malta,2021,f
+Estonia,Televote,12,Finland,2021,f
+Estonia,Televote,10,Lithuania,2021,f
+Estonia,Televote,8,Italy,2021,f
+Estonia,Televote,7,France,2021,f
+Estonia,Televote,6,Russia,2021,f
+Estonia,Televote,5,Ukraine,2021,f
+Estonia,Televote,4,Norway,2021,f
+Estonia,Televote,3,Iceland,2021,f
+Estonia,Televote,2,Switzerland,2021,f
+Estonia,Televote,1,Sweden,2021,f
+Finland,Jury,12,Switzerland,2021,f
+Finland,Jury,10,Bulgaria,2021,f
+Finland,Jury,8,Iceland,2021,f
+Finland,Jury,7,France,2021,f
+Finland,Jury,6,Italy,2021,f
+Finland,Jury,5,Sweden,2021,f
+Finland,Jury,4,Russia,2021,f
+Finland,Jury,3,Lithuania,2021,f
+Finland,Jury,2,Greece,2021,f
+Finland,Jury,1,Malta,2021,f
+Finland,Televote,12,Iceland,2021,f
+Finland,Televote,10,Ukraine,2021,f
+Finland,Televote,8,Italy,2021,f
+Finland,Televote,7,Switzerland,2021,f
+Finland,Televote,6,France,2021,f
+Finland,Televote,5,Lithuania,2021,f
+Finland,Televote,4,Norway,2021,f
+Finland,Televote,3,Sweden,2021,f
+Finland,Televote,2,Moldova,2021,f
+Finland,Televote,1,Russia,2021,f
+France,Jury,12,Greece,2021,f
+France,Jury,10,Russia,2021,f
+France,Jury,8,Portugal,2021,f
+France,Jury,7,Switzerland,2021,f
+France,Jury,6,Belgium,2021,f
+France,Jury,5,Israel,2021,f
+France,Jury,4,San Marino,2021,f
+France,Jury,3,Iceland,2021,f
+France,Jury,2,Cyprus,2021,f
+France,Jury,1,Sweden,2021,f
+France,Televote,12,Ukraine,2021,f
+France,Televote,10,Italy,2021,f
+France,Televote,8,Portugal,2021,f
+France,Televote,7,Moldova,2021,f
+France,Televote,6,Switzerland,2021,f
+France,Televote,5,Israel,2021,f
+France,Televote,4,Iceland,2021,f
+France,Televote,3,Serbia,2021,f
+France,Televote,2,Sweden,2021,f
+France,Televote,1,Finland,2021,f
+Georgia,Jury,12,Italy,2021,f
+Georgia,Jury,10,Switzerland,2021,f
+Georgia,Jury,8,Portugal,2021,f
+Georgia,Jury,7,Ukraine,2021,f
+Georgia,Jury,6,Iceland,2021,f
+Georgia,Jury,5,Azerbaijan,2021,f
+Georgia,Jury,4,Bulgaria,2021,f
+Georgia,Jury,3,Lithuania,2021,f
+Georgia,Jury,2,Netherlands,2021,f
+Georgia,Jury,1,Malta,2021,f
+Georgia,Televote,12,Greece,2021,f
+Georgia,Televote,10,Lithuania,2021,f
+Georgia,Televote,8,Italy,2021,f
+Georgia,Televote,7,San Marino,2021,f
+Georgia,Televote,6,Ukraine,2021,f
+Georgia,Televote,5,France,2021,f
+Georgia,Televote,4,Russia,2021,f
+Georgia,Televote,3,Azerbaijan,2021,f
+Georgia,Televote,2,Moldova,2021,f
+Georgia,Televote,1,Iceland,2021,f
+Germany,Jury,12,France,2021,f
+Germany,Jury,10,Switzerland,2021,f
+Germany,Jury,8,Malta,2021,f
+Germany,Jury,7,Cyprus,2021,f
+Germany,Jury,6,Italy,2021,f
+Germany,Jury,5,Ukraine,2021,f
+Germany,Jury,4,Sweden,2021,f
+Germany,Jury,3,Iceland,2021,f
+Germany,Jury,2,Russia,2021,f
+Germany,Jury,1,Lithuania,2021,f
+Germany,Televote,12,Lithuania,2021,f
+Germany,Televote,10,France,2021,f
+Germany,Televote,8,Finland,2021,f
+Germany,Televote,7,Italy,2021,f
+Germany,Televote,6,Iceland,2021,f
+Germany,Televote,5,Russia,2021,f
+Germany,Televote,4,Ukraine,2021,f
+Germany,Televote,3,Serbia,2021,f
+Germany,Televote,2,Switzerland,2021,f
+Germany,Televote,1,Norway,2021,f
+Greece,Jury,12,Cyprus,2021,f
+Greece,Jury,10,Moldova,2021,f
+Greece,Jury,8,Bulgaria,2021,f
+Greece,Jury,7,San Marino,2021,f
+Greece,Jury,6,Malta,2021,f
+Greece,Jury,5,France,2021,f
+Greece,Jury,4,Italy,2021,f
+Greece,Jury,3,Belgium,2021,f
+Greece,Jury,2,Russia,2021,f
+Greece,Jury,1,Ukraine,2021,f
+Greece,Televote,12,Cyprus,2021,f
+Greece,Televote,10,Italy,2021,f
+Greece,Televote,8,France,2021,f
+Greece,Televote,7,Albania,2021,f
+Greece,Televote,6,Finland,2021,f
+Greece,Televote,5,Ukraine,2021,f
+Greece,Televote,4,Switzerland,2021,f
+Greece,Televote,3,Malta,2021,f
+Greece,Televote,2,Azerbaijan,2021,f
+Greece,Televote,1,Russia,2021,f
+Iceland,Jury,12,Switzerland,2021,f
+Iceland,Jury,10,Portugal,2021,f
+Iceland,Jury,8,Bulgaria,2021,f
+Iceland,Jury,7,Italy,2021,f
+Iceland,Jury,6,France,2021,f
+Iceland,Jury,5,Finland,2021,f
+Iceland,Jury,4,Greece,2021,f
+Iceland,Jury,3,Ukraine,2021,f
+Iceland,Jury,2,Russia,2021,f
+Iceland,Jury,1,Malta,2021,f
+Iceland,Televote,12,Finland,2021,f
+Iceland,Televote,10,Sweden,2021,f
+Iceland,Televote,8,Ukraine,2021,f
+Iceland,Televote,7,France,2021,f
+Iceland,Televote,6,Switzerland,2021,f
+Iceland,Televote,5,Italy,2021,f
+Iceland,Televote,4,Lithuania,2021,f
+Iceland,Televote,3,Malta,2021,f
+Iceland,Televote,2,Portugal,2021,f
+Iceland,Televote,1,Norway,2021,f
+Ireland,Jury,12,France,2021,f
+Ireland,Jury,10,Malta,2021,f
+Ireland,Jury,8,Iceland,2021,f
+Ireland,Jury,7,Norway,2021,f
+Ireland,Jury,6,Ukraine,2021,f
+Ireland,Jury,5,Switzerland,2021,f
+Ireland,Jury,4,Lithuania,2021,f
+Ireland,Jury,3,Belgium,2021,f
+Ireland,Jury,2,Azerbaijan,2021,f
+Ireland,Jury,1,Bulgaria,2021,f
+Ireland,Televote,12,Lithuania,2021,f
+Ireland,Televote,10,Iceland,2021,f
+Ireland,Televote,8,Ukraine,2021,f
+Ireland,Televote,7,France,2021,f
+Ireland,Televote,6,Italy,2021,f
+Ireland,Televote,5,Finland,2021,f
+Ireland,Televote,4,Malta,2021,f
+Ireland,Televote,3,Switzerland,2021,f
+Ireland,Televote,2,Portugal,2021,f
+Ireland,Televote,1,Sweden,2021,f
+Israel,Jury,12,Switzerland,2021,f
+Israel,Jury,10,Lithuania,2021,f
+Israel,Jury,8,France,2021,f
+Israel,Jury,7,Russia,2021,f
+Israel,Jury,6,Belgium,2021,f
+Israel,Jury,5,Malta,2021,f
+Israel,Jury,4,Ukraine,2021,f
+Israel,Jury,3,Cyprus,2021,f
+Israel,Jury,2,Azerbaijan,2021,f
+Israel,Jury,1,Bulgaria,2021,f
+Israel,Televote,12,Ukraine,2021,f
+Israel,Televote,10,Russia,2021,f
+Israel,Televote,8,France,2021,f
+Israel,Televote,7,Italy,2021,f
+Israel,Televote,6,Switzerland,2021,f
+Israel,Televote,5,Malta,2021,f
+Israel,Televote,4,Finland,2021,f
+Israel,Televote,3,Lithuania,2021,f
+Israel,Televote,2,Azerbaijan,2021,f
+Israel,Televote,1,Iceland,2021,f
+Italy,Jury,12,Lithuania,2021,f
+Italy,Jury,10,Finland,2021,f
+Italy,Jury,8,Iceland,2021,f
+Italy,Jury,7,Malta,2021,f
+Italy,Jury,6,Portugal,2021,f
+Italy,Jury,5,Belgium,2021,f
+Italy,Jury,4,Israel,2021,f
+Italy,Jury,3,France,2021,f
+Italy,Jury,2,Norway,2021,f
+Italy,Jury,1,Ukraine,2021,f
+Italy,Televote,12,Ukraine,2021,f
+Italy,Televote,10,Albania,2021,f
+Italy,Televote,8,Finland,2021,f
+Italy,Televote,7,Russia,2021,f
+Italy,Televote,6,Iceland,2021,f
+Italy,Televote,5,Lithuania,2021,f
+Italy,Televote,4,Serbia,2021,f
+Italy,Televote,3,San Marino,2021,f
+Italy,Televote,2,Moldova,2021,f
+Italy,Televote,1,France,2021,f
+Latvia,Jury,12,Switzerland,2021,f
+Latvia,Jury,10,Iceland,2021,f
+Latvia,Jury,8,Italy,2021,f
+Latvia,Jury,7,Ukraine,2021,f
+Latvia,Jury,6,Lithuania,2021,f
+Latvia,Jury,5,Bulgaria,2021,f
+Latvia,Jury,4,Finland,2021,f
+Latvia,Jury,3,France,2021,f
+Latvia,Jury,2,Malta,2021,f
+Latvia,Jury,1,Russia,2021,f
+Latvia,Televote,12,Lithuania,2021,f
+Latvia,Televote,10,Russia,2021,f
+Latvia,Televote,8,Finland,2021,f
+Latvia,Televote,7,Italy,2021,f
+Latvia,Televote,6,Ukraine,2021,f
+Latvia,Televote,5,Iceland,2021,f
+Latvia,Televote,4,Switzerland,2021,f
+Latvia,Televote,3,France,2021,f
+Latvia,Televote,2,Norway,2021,f
+Latvia,Televote,1,Sweden,2021,f
+Lithuania,Jury,12,Ukraine,2021,f
+Lithuania,Jury,10,Italy,2021,f
+Lithuania,Jury,8,Switzerland,2021,f
+Lithuania,Jury,7,Belgium,2021,f
+Lithuania,Jury,6,Portugal,2021,f
+Lithuania,Jury,5,France,2021,f
+Lithuania,Jury,4,Iceland,2021,f
+Lithuania,Jury,3,Malta,2021,f
+Lithuania,Jury,2,Bulgaria,2021,f
+Lithuania,Jury,1,Israel,2021,f
+Lithuania,Televote,12,Ukraine,2021,f
+Lithuania,Televote,10,Italy,2021,f
+Lithuania,Televote,8,France,2021,f
+Lithuania,Televote,7,Finland,2021,f
+Lithuania,Televote,6,Switzerland,2021,f
+Lithuania,Televote,5,Norway,2021,f
+Lithuania,Televote,4,Russia,2021,f
+Lithuania,Televote,3,Iceland,2021,f
+Lithuania,Televote,2,Belgium,2021,f
+Lithuania,Televote,1,Sweden,2021,f
+Malta,Jury,12,Albania,2021,f
+Malta,Jury,10,Switzerland,2021,f
+Malta,Jury,8,Sweden,2021,f
+Malta,Jury,7,Portugal,2021,f
+Malta,Jury,6,Greece,2021,f
+Malta,Jury,5,Ukraine,2021,f
+Malta,Jury,4,Cyprus,2021,f
+Malta,Jury,3,France,2021,f
+Malta,Jury,2,Finland,2021,f
+Malta,Jury,1,San Marino,2021,f
+Malta,Televote,12,Italy,2021,f
+Malta,Televote,10,Norway,2021,f
+Malta,Televote,8,Sweden,2021,f
+Malta,Televote,7,Finland,2021,f
+Malta,Televote,6,Lithuania,2021,f
+Malta,Televote,5,Iceland,2021,f
+Malta,Televote,4,Serbia,2021,f
+Malta,Televote,3,France,2021,f
+Malta,Televote,2,Cyprus,2021,f
+Malta,Televote,1,Ukraine,2021,f
+Moldova,Jury,12,Bulgaria,2021,f
+Moldova,Jury,10,Russia,2021,f
+Moldova,Jury,8,Greece,2021,f
+Moldova,Jury,7,Malta,2021,f
+Moldova,Jury,6,Azerbaijan,2021,f
+Moldova,Jury,5,Iceland,2021,f
+Moldova,Jury,4,France,2021,f
+Moldova,Jury,3,Switzerland,2021,f
+Moldova,Jury,2,Portugal,2021,f
+Moldova,Jury,1,Cyprus,2021,f
+Moldova,Televote,12,Russia,2021,f
+Moldova,Televote,10,Ukraine,2021,f
+Moldova,Televote,8,Italy,2021,f
+Moldova,Televote,7,Greece,2021,f
+Moldova,Televote,6,France,2021,f
+Moldova,Televote,5,Finland,2021,f
+Moldova,Televote,4,Switzerland,2021,f
+Moldova,Televote,3,Sweden,2021,f
+Moldova,Televote,2,Lithuania,2021,f
+Moldova,Televote,1,Azerbaijan,2021,f
+Netherlands,Jury,12,France,2021,f
+Netherlands,Jury,10,Iceland,2021,f
+Netherlands,Jury,8,Russia,2021,f
+Netherlands,Jury,7,Malta,2021,f
+Netherlands,Jury,6,Belgium,2021,f
+Netherlands,Jury,5,Switzerland,2021,f
+Netherlands,Jury,4,Israel,2021,f
+Netherlands,Jury,3,Ukraine,2021,f
+Netherlands,Jury,2,Azerbaijan,2021,f
+Netherlands,Jury,1,Albania,2021,f
+Netherlands,Televote,12,France,2021,f
+Netherlands,Televote,10,Greece,2021,f
+Netherlands,Televote,8,Iceland,2021,f
+Netherlands,Televote,7,Switzerland,2021,f
+Netherlands,Televote,6,Portugal,2021,f
+Netherlands,Televote,5,Ukraine,2021,f
+Netherlands,Televote,4,Finland,2021,f
+Netherlands,Televote,3,Lithuania,2021,f
+Netherlands,Televote,2,Italy,2021,f
+Netherlands,Televote,1,Malta,2021,f
+North Macedonia,Jury,12,Serbia,2021,f
+North Macedonia,Jury,10,Italy,2021,f
+North Macedonia,Jury,8,Israel,2021,f
+North Macedonia,Jury,7,France,2021,f
+North Macedonia,Jury,6,Switzerland,2021,f
+North Macedonia,Jury,5,Malta,2021,f
+North Macedonia,Jury,4,Iceland,2021,f
+North Macedonia,Jury,3,Sweden,2021,f
+North Macedonia,Jury,2,Cyprus,2021,f
+North Macedonia,Jury,1,Russia,2021,f
+North Macedonia,Televote,12,Serbia,2021,f
+North Macedonia,Televote,10,Albania,2021,f
+North Macedonia,Televote,8,Italy,2021,f
+North Macedonia,Televote,7,Switzerland,2021,f
+North Macedonia,Televote,6,Cyprus,2021,f
+North Macedonia,Televote,5,France,2021,f
+North Macedonia,Televote,4,Ukraine,2021,f
+North Macedonia,Televote,3,Azerbaijan,2021,f
+North Macedonia,Televote,2,Finland,2021,f
+North Macedonia,Televote,1,Russia,2021,f
+Norway,Jury,12,Malta,2021,f
+Norway,Jury,10,Sweden,2021,f
+Norway,Jury,8,Israel,2021,f
+Norway,Jury,7,Switzerland,2021,f
+Norway,Jury,6,Bulgaria,2021,f
+Norway,Jury,5,Italy,2021,f
+Norway,Jury,4,France,2021,f
+Norway,Jury,3,Ukraine,2021,f
+Norway,Jury,2,Iceland,2021,f
+Norway,Jury,1,Greece,2021,f
+Norway,Televote,12,Lithuania,2021,f
+Norway,Televote,10,Iceland,2021,f
+Norway,Televote,8,Sweden,2021,f
+Norway,Televote,7,Italy,2021,f
+Norway,Televote,6,Finland,2021,f
+Norway,Televote,5,Ukraine,2021,f
+Norway,Televote,4,France,2021,f
+Norway,Televote,3,Malta,2021,f
+Norway,Televote,2,Switzerland,2021,f
+Norway,Televote,1,Azerbaijan,2021,f
+Poland,Jury,12,San Marino,2021,f
+Poland,Jury,10,Iceland,2021,f
+Poland,Jury,8,Portugal,2021,f
+Poland,Jury,7,Switzerland,2021,f
+Poland,Jury,6,Israel,2021,f
+Poland,Jury,5,Italy,2021,f
+Poland,Jury,4,Malta,2021,f
+Poland,Jury,3,Belgium,2021,f
+Poland,Jury,2,Finland,2021,f
+Poland,Jury,1,Russia,2021,f
+Poland,Televote,12,Ukraine,2021,f
+Poland,Televote,10,Italy,2021,f
+Poland,Televote,8,Iceland,2021,f
+Poland,Televote,7,Switzerland,2021,f
+Poland,Televote,6,Finland,2021,f
+Poland,Televote,5,France,2021,f
+Poland,Televote,4,Lithuania,2021,f
+Poland,Televote,3,Norway,2021,f
+Poland,Televote,2,Russia,2021,f
+Poland,Televote,1,Sweden,2021,f
+Portugal,Jury,12,Bulgaria,2021,f
+Portugal,Jury,10,Russia,2021,f
+Portugal,Jury,8,Iceland,2021,f
+Portugal,Jury,7,Switzerland,2021,f
+Portugal,Jury,6,France,2021,f
+Portugal,Jury,5,Belgium,2021,f
+Portugal,Jury,4,Malta,2021,f
+Portugal,Jury,3,Italy,2021,f
+Portugal,Jury,2,Ukraine,2021,f
+Portugal,Jury,1,Netherlands,2021,f
+Portugal,Televote,12,France,2021,f
+Portugal,Televote,10,Ukraine,2021,f
+Portugal,Televote,8,Moldova,2021,f
+Portugal,Televote,7,Italy,2021,f
+Portugal,Televote,6,Switzerland,2021,f
+Portugal,Televote,5,Finland,2021,f
+Portugal,Televote,4,Sweden,2021,f
+Portugal,Televote,3,Iceland,2021,f
+Portugal,Televote,2,Greece,2021,f
+Portugal,Televote,1,Russia,2021,f
+Romania,Jury,12,Malta,2021,f
+Romania,Jury,10,Portugal,2021,f
+Romania,Jury,8,Finland,2021,f
+Romania,Jury,7,Switzerland,2021,f
+Romania,Jury,6,Moldova,2021,f
+Romania,Jury,5,Ukraine,2021,f
+Romania,Jury,4,France,2021,f
+Romania,Jury,3,Italy,2021,f
+Romania,Jury,2,Bulgaria,2021,f
+Romania,Jury,1,Germany,2021,f
+Romania,Televote,12,Moldova,2021,f
+Romania,Televote,10,Italy,2021,f
+Romania,Televote,8,France,2021,f
+Romania,Televote,7,Ukraine,2021,f
+Romania,Televote,6,Finland,2021,f
+Romania,Televote,5,Switzerland,2021,f
+Romania,Televote,4,Azerbaijan,2021,f
+Romania,Televote,3,Lithuania,2021,f
+Romania,Televote,2,Malta,2021,f
+Romania,Televote,1,Israel,2021,f
+Russia,Jury,12,Moldova,2021,f
+Russia,Jury,10,Italy,2021,f
+Russia,Jury,8,Azerbaijan,2021,f
+Russia,Jury,7,Greece,2021,f
+Russia,Jury,6,Bulgaria,2021,f
+Russia,Jury,5,Israel,2021,f
+Russia,Jury,4,Malta,2021,f
+Russia,Jury,3,Belgium,2021,f
+Russia,Jury,2,Cyprus,2021,f
+Russia,Jury,1,Switzerland,2021,f
+Russia,Televote,12,Cyprus,2021,f
+Russia,Televote,10,Italy,2021,f
+Russia,Televote,8,Finland,2021,f
+Russia,Televote,7,Ukraine,2021,f
+Russia,Televote,6,France,2021,f
+Russia,Televote,5,Switzerland,2021,f
+Russia,Televote,4,Azerbaijan,2021,f
+Russia,Televote,3,Moldova,2021,f
+Russia,Televote,2,Lithuania,2021,f
+Russia,Televote,1,Iceland,2021,f
+San Marino,Jury,12,France,2021,f
+San Marino,Jury,10,Italy,2021,f
+San Marino,Jury,8,Greece,2021,f
+San Marino,Jury,7,Malta,2021,f
+San Marino,Jury,6,Lithuania,2021,f
+San Marino,Jury,5,Moldova,2021,f
+San Marino,Jury,4,Switzerland,2021,f
+San Marino,Jury,3,Bulgaria,2021,f
+San Marino,Jury,2,Albania,2021,f
+San Marino,Jury,1,Finland,2021,f
+San Marino,Televote,12,Italy,2021,f
+San Marino,Televote,10,France,2021,f
+San Marino,Televote,8,Cyprus,2021,f
+San Marino,Televote,7,Greece,2021,f
+San Marino,Televote,6,Moldova,2021,f
+San Marino,Televote,5,Ukraine,2021,f
+San Marino,Televote,4,Finland,2021,f
+San Marino,Televote,3,Switzerland,2021,f
+San Marino,Televote,2,Bulgaria,2021,f
+San Marino,Televote,1,Russia,2021,f
+Serbia,Jury,12,France,2021,f
+Serbia,Jury,10,Finland,2021,f
+Serbia,Jury,8,Italy,2021,f
+Serbia,Jury,7,Iceland,2021,f
+Serbia,Jury,6,Bulgaria,2021,f
+Serbia,Jury,5,Portugal,2021,f
+Serbia,Jury,4,Sweden,2021,f
+Serbia,Jury,3,Greece,2021,f
+Serbia,Jury,2,Israel,2021,f
+Serbia,Jury,1,Switzerland,2021,f
+Serbia,Televote,12,Italy,2021,f
+Serbia,Televote,10,France,2021,f
+Serbia,Televote,8,Ukraine,2021,f
+Serbia,Televote,7,Finland,2021,f
+Serbia,Televote,6,Russia,2021,f
+Serbia,Televote,5,Iceland,2021,f
+Serbia,Televote,4,Azerbaijan,2021,f
+Serbia,Televote,3,Greece,2021,f
+Serbia,Televote,2,Cyprus,2021,f
+Serbia,Televote,1,Switzerland,2021,f
+Slovenia,Jury,12,Italy,2021,f
+Slovenia,Jury,10,Iceland,2021,f
+Slovenia,Jury,8,Russia,2021,f
+Slovenia,Jury,7,Switzerland,2021,f
+Slovenia,Jury,6,Belgium,2021,f
+Slovenia,Jury,5,Malta,2021,f
+Slovenia,Jury,4,Finland,2021,f
+Slovenia,Jury,3,Greece,2021,f
+Slovenia,Jury,2,France,2021,f
+Slovenia,Jury,1,Israel,2021,f
+Slovenia,Televote,12,Serbia,2021,f
+Slovenia,Televote,10,Italy,2021,f
+Slovenia,Televote,8,Greece,2021,f
+Slovenia,Televote,7,Ukraine,2021,f
+Slovenia,Televote,6,France,2021,f
+Slovenia,Televote,5,Switzerland,2021,f
+Slovenia,Televote,4,Finland,2021,f
+Slovenia,Televote,3,Iceland,2021,f
+Slovenia,Televote,2,Norway,2021,f
+Slovenia,Televote,1,Russia,2021,f
+Spain,Jury,12,France,2021,f
+Spain,Jury,10,Switzerland,2021,f
+Spain,Jury,8,Malta,2021,f
+Spain,Jury,7,Iceland,2021,f
+Spain,Jury,6,Cyprus,2021,f
+Spain,Jury,5,Portugal,2021,f
+Spain,Jury,4,Bulgaria,2021,f
+Spain,Jury,3,Israel,2021,f
+Spain,Jury,2,Lithuania,2021,f
+Spain,Jury,1,Greece,2021,f
+Spain,Televote,12,France,2021,f
+Spain,Televote,10,Italy,2021,f
+Spain,Televote,8,Bulgaria,2021,f
+Spain,Televote,7,Switzerland,2021,f
+Spain,Televote,6,Ukraine,2021,f
+Spain,Televote,5,Iceland,2021,f
+Spain,Televote,4,Lithuania,2021,f
+Spain,Televote,3,Malta,2021,f
+Spain,Televote,2,Finland,2021,f
+Spain,Televote,1,Portugal,2021,f
+Sweden,Jury,12,Malta,2021,f
+Sweden,Jury,10,Italy,2021,f
+Sweden,Jury,8,Ukraine,2021,f
+Sweden,Jury,7,Iceland,2021,f
+Sweden,Jury,6,France,2021,f
+Sweden,Jury,5,Switzerland,2021,f
+Sweden,Jury,4,Israel,2021,f
+Sweden,Jury,3,Russia,2021,f
+Sweden,Jury,2,Norway,2021,f
+Sweden,Jury,1,Belgium,2021,f
+Sweden,Televote,12,Finland,2021,f
+Sweden,Televote,10,Iceland,2021,f
+Sweden,Televote,8,Norway,2021,f
+Sweden,Televote,7,Lithuania,2021,f
+Sweden,Televote,6,France,2021,f
+Sweden,Televote,5,Switzerland,2021,f
+Sweden,Televote,4,Ukraine,2021,f
+Sweden,Televote,3,Italy,2021,f
+Sweden,Televote,2,Malta,2021,f
+Sweden,Televote,1,Serbia,2021,f
+Switzerland,Jury,12,France,2021,f
+Switzerland,Jury,10,Bulgaria,2021,f
+Switzerland,Jury,8,Italy,2021,f
+Switzerland,Jury,7,Portugal,2021,f
+Switzerland,Jury,6,Malta,2021,f
+Switzerland,Jury,5,Iceland,2021,f
+Switzerland,Jury,4,Lithuania,2021,f
+Switzerland,Jury,3,Russia,2021,f
+Switzerland,Jury,2,Azerbaijan,2021,f
+Switzerland,Jury,1,Finland,2021,f
+Switzerland,Televote,12,Serbia,2021,f
+Switzerland,Televote,10,Italy,2021,f
+Switzerland,Televote,8,Portugal,2021,f
+Switzerland,Televote,7,Albania,2021,f
+Switzerland,Televote,6,France,2021,f
+Switzerland,Televote,5,Iceland,2021,f
+Switzerland,Televote,4,Finland,2021,f
+Switzerland,Televote,3,Sweden,2021,f
+Switzerland,Televote,2,Ukraine,2021,f
+Switzerland,Televote,1,Lithuania,2021,f
+Ukraine,Jury,12,Italy,2021,f
+Ukraine,Jury,10,France,2021,f
+Ukraine,Jury,8,Switzerland,2021,f
+Ukraine,Jury,7,Israel,2021,f
+Ukraine,Jury,6,Belgium,2021,f
+Ukraine,Jury,5,Malta,2021,f
+Ukraine,Jury,4,Iceland,2021,f
+Ukraine,Jury,3,Azerbaijan,2021,f
+Ukraine,Jury,2,Portugal,2021,f
+Ukraine,Jury,1,Norway,2021,f
+Ukraine,Televote,12,Italy,2021,f
+Ukraine,Televote,10,Lithuania,2021,f
+Ukraine,Televote,8,Finland,2021,f
+Ukraine,Televote,7,Switzerland,2021,f
+Ukraine,Televote,6,Iceland,2021,f
+Ukraine,Televote,5,France,2021,f
+Ukraine,Televote,4,Russia,2021,f
+Ukraine,Televote,3,Azerbaijan,2021,f
+Ukraine,Televote,2,Sweden,2021,f
+Ukraine,Televote,1,Belgium,2021,f
+United Kingdom,Jury,12,France,2021,f
+United Kingdom,Jury,10,Iceland,2021,f
+United Kingdom,Jury,8,Switzerland,2021,f
+United Kingdom,Jury,7,Portugal,2021,f
+United Kingdom,Jury,6,Israel,2021,f
+United Kingdom,Jury,5,Bulgaria,2021,f
+United Kingdom,Jury,4,Finland,2021,f
+United Kingdom,Jury,3,San Marino,2021,f
+United Kingdom,Jury,2,Spain,2021,f
+United Kingdom,Jury,1,Belgium,2021,f
+United Kingdom,Televote,12,Lithuania,2021,f
+United Kingdom,Televote,10,Iceland,2021,f
+United Kingdom,Televote,8,Bulgaria,2021,f
+United Kingdom,Televote,7,Finland,2021,f
+United Kingdom,Televote,6,Malta,2021,f
+United Kingdom,Televote,5,France,2021,f
+United Kingdom,Televote,4,Ukraine,2021,f
+United Kingdom,Televote,3,Italy,2021,f
+United Kingdom,Televote,2,Norway,2021,f
+United Kingdom,Televote,1,Switzerland,2021,f
